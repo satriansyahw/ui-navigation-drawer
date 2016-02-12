@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">DrawerSamples.Android</string>
+  <string name="FooterText">Powered by Crosslight®</string>
+  <string name="HeaderText">Mark Daughtry</string>
+  <string name="LearnMore">Learn More</string>
+  <string name="Update">Update</string>
+  <string name="nav_header_title">Intersoft Crosslight</string>
+  <string name="nav_header_subtitle">Drawer Samples</string>
+</resources>

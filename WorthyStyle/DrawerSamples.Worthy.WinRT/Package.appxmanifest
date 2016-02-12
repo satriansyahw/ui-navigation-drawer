@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="365b3678-da38-4e36-ba24-b8e0a3c3e30c" Publisher="CN=Yanes" Version="1.0.0.2" />
+  <Properties>
+    <DisplayName>DrawerSamples.WinRT</DisplayName>
+    <PublisherDisplayName>Yanes</PublisherDisplayName>
+    <Logo>Assets\Images\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="DrawerSamples.WinRT.App">
+      <VisualElements DisplayName="DrawerSamples.WinRT" Logo="Assets\Images\Logo.png" SmallLogo="Assets\Images\SmallLogo.png" Description="DrawerSamples.WinRT" ForegroundText="light" BackgroundColor="#dedede">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\Images\WideLogo.png" />
+        <SplashScreen Image="Assets\Images\SplashScreen.png" BackgroundColor="#dedede" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
