@@ -86,7 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Intersoft.Crosslight, Version=5.0.5000.1, Culture=neutral, PublicKeyToken=71f3e3261ac778b5, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Intersoft.Crosslight.5.0.5000.525\lib\Intersoft.Crosslight.dll</HintPath>
+      <HintPath>..\..\packages\Intersoft.Crosslight.5.0.5000.541\lib\Intersoft.Crosslight.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />

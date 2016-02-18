@@ -1736,6 +1736,7 @@ namespace DrawerSamples.Android
 			global::Intersoft.Crosslight.Android.v7.Resource.String.pull_to_refresh_pull_label = global::DrawerSamples.Android.Resource.String.pull_to_refresh_pull_label;
 			global::Intersoft.Crosslight.Android.v7.Resource.String.pull_to_refresh_refreshing_label = global::DrawerSamples.Android.Resource.String.pull_to_refresh_refreshing_label;
 			global::Intersoft.Crosslight.Android.v7.Resource.String.pull_to_refresh_release_label = global::DrawerSamples.Android.Resource.String.pull_to_refresh_release_label;
+			global::Intersoft.Crosslight.Android.v7.Resource.String.search = global::DrawerSamples.Android.Resource.String.search;
 			global::Intersoft.Crosslight.Android.v7.Resource.String.spb_default_speed = global::DrawerSamples.Android.Resource.String.spb_default_speed;
 			global::Intersoft.Crosslight.Android.v7.Resource.String.status_bar_notification_info_overflow = global::DrawerSamples.Android.Resource.String.status_bar_notification_info_overflow;
 			global::Intersoft.Crosslight.Android.v7.Resource.Style.AlertDialog_AppCompat = global::DrawerSamples.Android.Resource.Style.AlertDialog_AppCompat;
@@ -1887,6 +1888,7 @@ namespace DrawerSamples.Android
 			global::Intersoft.Crosslight.Android.v7.Resource.Style.Crosslight_Material_Button_Facebook = global::DrawerSamples.Android.Resource.Style.Crosslight_Material_Button_Facebook;
 			global::Intersoft.Crosslight.Android.v7.Resource.Style.Crosslight_Material_Dialog = global::DrawerSamples.Android.Resource.Style.Crosslight_Material_Dialog;
 			global::Intersoft.Crosslight.Android.v7.Resource.Style.Crosslight_Material_Dialog_Alert = global::DrawerSamples.Android.Resource.Style.Crosslight_Material_Dialog_Alert;
+			global::Intersoft.Crosslight.Android.v7.Resource.Style.Crosslight_Material_SearchActivity = global::DrawerSamples.Android.Resource.Style.Crosslight_Material_SearchActivity;
 			global::Intersoft.Crosslight.Android.v7.Resource.Style.GridItem = global::DrawerSamples.Android.Resource.Style.GridItem;
 			global::Intersoft.Crosslight.Android.v7.Resource.Style.ListItem = global::DrawerSamples.Android.Resource.Style.ListItem;
 			global::Intersoft.Crosslight.Android.v7.Resource.Style.PageIndicator = global::DrawerSamples.Android.Resource.Style.PageIndicator;
@@ -6568,62 +6570,62 @@ namespace DrawerSamples.Android
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f0b001a
-			public const int Add = 2131427354;
-			
-			// aapt resource value: 0x7f0b002b
-			public const int ApplicationName = 2131427371;
-			
 			// aapt resource value: 0x7f0b001b
-			public const int Cancel = 2131427355;
-			
-			// aapt resource value: 0x7f0b001c
-			public const int CheckAll = 2131427356;
-			
-			// aapt resource value: 0x7f0b001d
-			public const int ChooseFromGallery = 2131427357;
-			
-			// aapt resource value: 0x7f0b001e
-			public const int CloseDrawer = 2131427358;
-			
-			// aapt resource value: 0x7f0b001f
-			public const int Delete = 2131427359;
-			
-			// aapt resource value: 0x7f0b0020
-			public const int DeleteImage = 2131427360;
+			public const int Add = 2131427355;
 			
 			// aapt resource value: 0x7f0b002c
-			public const int FooterText = 2131427372;
+			public const int ApplicationName = 2131427372;
 			
-			// aapt resource value: 0x7f0b002d
-			public const int HeaderText = 2131427373;
+			// aapt resource value: 0x7f0b001c
+			public const int Cancel = 2131427356;
 			
-			// aapt resource value: 0x7f0b002e
-			public const int LearnMore = 2131427374;
+			// aapt resource value: 0x7f0b001d
+			public const int CheckAll = 2131427357;
+			
+			// aapt resource value: 0x7f0b001e
+			public const int ChooseFromGallery = 2131427358;
+			
+			// aapt resource value: 0x7f0b001f
+			public const int CloseDrawer = 2131427359;
+			
+			// aapt resource value: 0x7f0b0020
+			public const int Delete = 2131427360;
 			
 			// aapt resource value: 0x7f0b0021
-			public const int More = 2131427361;
+			public const int DeleteImage = 2131427361;
 			
-			// aapt resource value: 0x7f0b0022
-			public const int OK = 2131427362;
+			// aapt resource value: 0x7f0b002d
+			public const int FooterText = 2131427373;
 			
-			// aapt resource value: 0x7f0b0023
-			public const int OpenDrawer = 2131427363;
-			
-			// aapt resource value: 0x7f0b0024
-			public const int Save = 2131427364;
-			
-			// aapt resource value: 0x7f0b0025
-			public const int SelectImage = 2131427365;
-			
-			// aapt resource value: 0x7f0b0026
-			public const int TakePhoto = 2131427366;
-			
-			// aapt resource value: 0x7f0b0027
-			public const int UncheckAll = 2131427367;
+			// aapt resource value: 0x7f0b002e
+			public const int HeaderText = 2131427374;
 			
 			// aapt resource value: 0x7f0b002f
-			public const int Update = 2131427375;
+			public const int LearnMore = 2131427375;
+			
+			// aapt resource value: 0x7f0b0022
+			public const int More = 2131427362;
+			
+			// aapt resource value: 0x7f0b0023
+			public const int OK = 2131427363;
+			
+			// aapt resource value: 0x7f0b0024
+			public const int OpenDrawer = 2131427364;
+			
+			// aapt resource value: 0x7f0b0025
+			public const int Save = 2131427365;
+			
+			// aapt resource value: 0x7f0b0026
+			public const int SelectImage = 2131427366;
+			
+			// aapt resource value: 0x7f0b0027
+			public const int TakePhoto = 2131427367;
+			
+			// aapt resource value: 0x7f0b0028
+			public const int UncheckAll = 2131427368;
+			
+			// aapt resource value: 0x7f0b0030
+			public const int Update = 2131427376;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int abc_action_bar_home_description = 2131427328;
@@ -6697,17 +6699,20 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0b0018
 			public const int no_items = 2131427352;
 			
-			// aapt resource value: 0x7f0b0028
-			public const int pull_to_refresh_pull_label = 2131427368;
+			// aapt resource value: 0x7f0b0029
+			public const int pull_to_refresh_pull_label = 2131427369;
+			
+			// aapt resource value: 0x7f0b002b
+			public const int pull_to_refresh_refreshing_label = 2131427371;
 			
 			// aapt resource value: 0x7f0b002a
-			public const int pull_to_refresh_refreshing_label = 2131427370;
-			
-			// aapt resource value: 0x7f0b0029
-			public const int pull_to_refresh_release_label = 2131427369;
+			public const int pull_to_refresh_release_label = 2131427370;
 			
 			// aapt resource value: 0x7f0b0019
-			public const int spb_default_speed = 2131427353;
+			public const int search = 2131427353;
+			
+			// aapt resource value: 0x7f0b001a
+			public const int spb_default_speed = 2131427354;
 			
 			// aapt resource value: 0x7f0b0013
 			public const int status_bar_notification_info_overflow = 2131427347;
@@ -7148,8 +7153,8 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0a0133
 			public const int Base_Widget_Design_TabLayout = 2131362099;
 			
-			// aapt resource value: 0x7f0a0159
-			public const int BulletPageIndicator = 2131362137;
+			// aapt resource value: 0x7f0a015a
+			public const int BulletPageIndicator = 2131362138;
 			
 			// aapt resource value: 0x7f0a0000
 			public const int CardView = 2131361792;
@@ -7172,17 +7177,20 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0a014b
 			public const int Crosslight_Material_Dialog_Alert = 2131362123;
 			
-			// aapt resource value: 0x7f0a014d
-			public const int GridItem = 2131362125;
-			
 			// aapt resource value: 0x7f0a014c
-			public const int ListItem = 2131362124;
+			public const int Crosslight_Material_SearchActivity = 2131362124;
 			
-			// aapt resource value: 0x7f0a015c
-			public const int Mono_Android_Theme_Splash = 2131362140;
+			// aapt resource value: 0x7f0a014e
+			public const int GridItem = 2131362126;
 			
-			// aapt resource value: 0x7f0a0158
-			public const int PageIndicator = 2131362136;
+			// aapt resource value: 0x7f0a014d
+			public const int ListItem = 2131362125;
+			
+			// aapt resource value: 0x7f0a015d
+			public const int Mono_Android_Theme_Splash = 2131362141;
+			
+			// aapt resource value: 0x7f0a0159
+			public const int PageIndicator = 2131362137;
 			
 			// aapt resource value: 0x7f0a0013
 			public const int Platform_AppCompat = 2131361811;
@@ -7256,11 +7264,11 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0a0031
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131361841;
 			
-			// aapt resource value: 0x7f0a014f
-			public const int SmoothProgressBar = 2131362127;
+			// aapt resource value: 0x7f0a0150
+			public const int SmoothProgressBar = 2131362128;
 			
-			// aapt resource value: 0x7f0a015a
-			public const int StripPageIndicator = 2131362138;
+			// aapt resource value: 0x7f0a015b
+			public const int StripPageIndicator = 2131362139;
 			
 			// aapt resource value: 0x7f0a00ac
 			public const int TextAppearance_AppCompat = 2131361964;
@@ -7394,8 +7402,8 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0a00d7
 			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131362007;
 			
-			// aapt resource value: 0x7f0a0150
-			public const int TextAppearance_Custom_PtrHeader_Title = 2131362128;
+			// aapt resource value: 0x7f0a0151
+			public const int TextAppearance_Custom_PtrHeader_Title = 2131362129;
 			
 			// aapt resource value: 0x7f0a0134
 			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131362100;
@@ -7418,8 +7426,8 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0a013a
 			public const int TextAppearance_Design_Tab = 2131362106;
 			
-			// aapt resource value: 0x7f0a014e
-			public const int TextAppearance_Small = 2131362126;
+			// aapt resource value: 0x7f0a014f
+			public const int TextAppearance_Small = 2131362127;
 			
 			// aapt resource value: 0x7f0a001f
 			public const int TextAppearance_StatusBar_EventContent = 2131361823;
@@ -7445,8 +7453,8 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0a00da
 			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131362010;
 			
-			// aapt resource value: 0x7f0a0151
-			public const int TextViewStyle = 2131362129;
+			// aapt resource value: 0x7f0a0152
+			public const int TextViewStyle = 2131362130;
 			
 			// aapt resource value: 0x7f0a00db
 			public const int Theme_AppCompat = 2131362011;
@@ -7505,20 +7513,20 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0a0143
 			public const int Theme_Crosslight_Material_Light = 2131362115;
 			
-			// aapt resource value: 0x7f0a0152
-			public const int Theme_Holo_CustomPtrHeader = 2131362130;
+			// aapt resource value: 0x7f0a0153
+			public const int Theme_Holo_CustomPtrHeader = 2131362131;
+			
+			// aapt resource value: 0x7f0a0158
+			public const int Theme_PageIndicatorDefaults = 2131362136;
+			
+			// aapt resource value: 0x7f0a0154
+			public const int Theme_SmoothProgressBarDefaults = 2131362132;
+			
+			// aapt resource value: 0x7f0a015c
+			public const int Theme_Splash = 2131362140;
 			
 			// aapt resource value: 0x7f0a0157
-			public const int Theme_PageIndicatorDefaults = 2131362135;
-			
-			// aapt resource value: 0x7f0a0153
-			public const int Theme_SmoothProgressBarDefaults = 2131362131;
-			
-			// aapt resource value: 0x7f0a015b
-			public const int Theme_Splash = 2131362139;
-			
-			// aapt resource value: 0x7f0a0156
-			public const int ThemeHoloLightDockEdge = 2131362134;
+			public const int ThemeHoloLightDockEdge = 2131362135;
 			
 			// aapt resource value: 0x7f0a00e9
 			public const int ThemeOverlay_AppCompat = 2131362025;
@@ -7739,8 +7747,8 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0a0131
 			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131362097;
 			
-			// aapt resource value: 0x7f0a0155
-			public const int Widget_Custom_PtrHeader = 2131362133;
+			// aapt resource value: 0x7f0a0156
+			public const int Widget_Custom_PtrHeader = 2131362134;
 			
 			// aapt resource value: 0x7f0a013b
 			public const int Widget_Design_AppBarLayout = 2131362107;
@@ -7769,8 +7777,8 @@ namespace DrawerSamples.Android
 			// aapt resource value: 0x7f0a0142
 			public const int Widget_Design_TextInputLayout = 2131362114;
 			
-			// aapt resource value: 0x7f0a0154
-			public const int Widget_ProgressBar_PullToRefresh = 2131362132;
+			// aapt resource value: 0x7f0a0155
+			public const int Widget_ProgressBar_PullToRefresh = 2131362133;
 			
 			static Style()
 			{
