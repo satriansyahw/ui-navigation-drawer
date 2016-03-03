@@ -4,8 +4,6 @@ In the early days of modern mobile computing, there were challenges to present u
 
 Nowadays, it's very common to see the navigation drawer in mobile apps and Google even decided to incorporate the navigation drawer in the standard Android SDK. This is the navigation pattern that most developers will want to use in their app, so, Crosslight has created a support in using the navigation drawer for Android and iOS apps. Crosslight provides several samples that incorprorates the navigation drawer pattern to help developers integrate the navigation drawer into their Crosslight-powered apps easily. To learn more about drawer navigation pattern in Crosslight, see [Drawer Navigation](http://developer.intersoftsolutions.com/display/crosslight/Drawer+Navigation).
 
-![image](http://developer.intersoftsolutions.com/download/attachments/5148174/drawer-samples.png?version=2&modificationDate=1398825482827&api=v2)
-
 #Supported Platforms
 
 This sample works on the following platforms:
@@ -23,12 +21,16 @@ This directory contains 4 sub-projects:
 
 ## DrawerSamples
 
+![](http://developer.intersoftsolutions.com/download/attachments/5148174/navidrawer.png?version=1&modificationDate=1456885180187&api=v2)
+
 * DrawerSamples.Android.Material: Crosslight Android.Material project, works on phones and tablets.
 * DrawerSamples.Core: Shared Portable Class Library project running Profile78.
 * DrawerSamples.iOS: Crosslight iOS project, works on iPhones and iPad with Storyboard support.
 * DrawerSamples.WinRT: Crosslight Windows Store 8 project.
 
 ## DrawerSamples.Facebook
+
+![](http://developer.intersoftsolutions.com/download/attachments/5148174/drawerfb.png?version=1&modificationDate=1456890048977&api=v2)
 
 * DrawerSamples.Facebook.Android.Material: Crosslight Android.Material project, works on phones and tablets.
 * DrawerSamples.Core: Shared Portable Class Library project running Profile78.
@@ -37,12 +39,16 @@ This directory contains 4 sub-projects:
 
 ## DrawerSamples.Translucent
 
+![](http://developer.intersoftsolutions.com/download/attachments/5148174/drawertranslucent.png?version=1&modificationDate=1456890058837&api=v2)
+
 * DrawerSamples.Translucent.Android.Material: Crosslight Android.Material project, works on phones and tablets.
 * DrawerSamples.Core: Shared Portable Class Library project running Profile78.
 * DrawerSamples.Translucent.iOS: Crosslight iOS project, works on iPhones and iPad with Storyboard support.
 * DrawerSamples.Translucent.WinRT: Crosslight iOS project, works on iPhones and iPad with Storyboard support.
 
 ## DrawerSamples.Worthy
+
+![](http://developer.intersoftsolutions.com/download/attachments/5148174/drawerworthy.png?version=1&modificationDate=1456890140363&api=v2)
 
 * DrawerSamples.Worthy.Android.Material: Crosslight Android.Material project, works on phones and tablets.
 * DrawerSamples.Core: Shared Portable Class Library project running Profile78.
